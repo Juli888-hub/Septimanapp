@@ -1,5 +1,8 @@
 Features:
     Horarium
+    (sua sponte) GPS-Observator, si aliquis invenire necesse est
+    Collectio colloquendi usitati
+    Feedback dare (de totam septimanam)
 
 Issues:
 
